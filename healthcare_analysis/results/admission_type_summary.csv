@@ -1,0 +1,4 @@
+"Admission Type",patients_admitted,avg_stay_days,avg_bill
+Urgent,18391,15.4038,25514.53
+Elective,18473,15.5112,25612.14
+Emergency,18102,15.5841,25505.33

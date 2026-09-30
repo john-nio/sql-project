@@ -1,0 +1,6 @@
+"Insurance Provider",patients_admitted,avg_stay_days,avg_bill
+"Blue Cross",10952,15.5074,25603.46
+Medicare,11039,15.6249,25628.32
+UnitedHealthcare,11014,15.4393,25414.51
+Cigna,11139,15.4795,25526
+Aetna,10822,15.4444,25549.69
